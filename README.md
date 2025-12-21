@@ -16,7 +16,7 @@ Motor de IA: Integración con la API de Gemini 2.5 Flash para un razonamiento cl
 
 Evaluación Dinámica: Clasificación automática del estado nutricional según la OMS.
 
-Selector de Idiomas: Soporte para Español, Inglés, Portugués, Francés e Italiano.
+Selector de Idiomas: Soporte para Español, Inglés y Portugués.
 
 Interfaz Responsiva: Diseño minimalista y funcional desarrollado con Streamlit.
 
