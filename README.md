@@ -1,4 +1,4 @@
-# 🍏 NutriSense: Asesor Nutricional Personalizado con IA
+# 🍏 NutriSense, Asesor Nutricional con IA
 
 NutriSense es una solución de salud digital que democratiza el acceso a la orientación nutricional mediante el uso de Inteligencia Artificial Generativa. La aplicación procesa datos biométricos en tiempo real para ofrecer planes de alimentación personalizados y análisis de riesgos de salud.
 
